@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 *Undergraduate Student* in Computer Science at [University Name].  
+- 🎓 *Undergraduate Student* in Computer Science at Rajarata University Of Sri Lanka.  
 - 🌱 *Currently Exploring:* Android Development, Flask, MySQL, and Video Analysis.  
 - 💼 *Passionate About:* Building robust mobile applications, AI-driven solutions, and backend APIs.  
 - 🎯 *Goals for 2024:* Enhance expertise in video processing and AI, contribute to open-source projects, and build impactful mobile solutions.  
@@ -46,8 +46,8 @@
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: [dinithierath@gmail.com](mailto:dinithierath@gmail.com)  
-- 🔗 LinkedIn: [Dinithi Herath](https://www.linkedin.com/in/dinithi-herath)  
+- 📧 Email: [dinithiherath123@gmail.com](mailto:dinithiherath123@gmail.com)  
+- 🔗 LinkedIn: [Dinithi Herath](https://www.linkedin.com/in/dinithi-herath-293a8a220)  
 - 🌐 Portfolio: [DinithiHerath.github.io](https://github.com/DinithiHerath)
 
 ---
@@ -57,7 +57,7 @@
   <a href="https://github.com/DinithiHerath">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dinithi-herath">
+  <a href="https://www.linkedin.com/in/dinithi-herath-293a8a220">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/DinithiHerath">
